@@ -12,6 +12,6 @@ def input_to_index(user_input)
   return user_input
 end
 
-def move(baord, position, value)
+def move(baord, position, value = 'X')
 
 end
